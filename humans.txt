@@ -3,7 +3,8 @@
 # this is a demo of git pull command
 # this is a mac demo..2
 # SSH Communication based on password
-# TEAM
+# TEAM 	
+	UF Taekwondo
 # ssh communications for password
 #some change ---now
 # diff change test
